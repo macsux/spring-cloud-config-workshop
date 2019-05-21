@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd95752e-a215-42a8-a260-dc9519c29229" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billboard/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billboard/src/main/java/com/example/billboard/BillboardApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billboard/src/main/java/com/example/billboard/BillboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billboard/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../billboard/src/test/java/com/example/billboard/BillboardApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/runConfigurations/billboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/runConfigurations/greeter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/.idea/.idea.spring-cloud-config-basics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/Config/BillboardConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/billlboard/billlboard.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/Config/BillboardConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/greeter/greeter.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotnet/spring-cloud-config-basics.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeter/src/main/java/com/example/greeter/GreeterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeter/src/main/java/com/example/greeter/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeter/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeter/src/test/java/com/example/greeter/GreeterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <marker date="1558384061551" expanded="false" signature="6:327" ph="..." />
+                <marker date="1558384061551" expanded="true" signature="348:2512" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="382:629" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="658:712" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="737:2510" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="807:1022" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1558384061551" expanded="true" signature="1075:1138" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="1215:1298" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="1527:2504" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="1587:1664" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="1717:2492" ph="{...}" />
+                <marker date="1558384061551" expanded="true" signature="2203:2461" ph="/* var configValues = Configuration.AsEnumerable().ToList(); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <marker date="1558381364843" expanded="false" signature="6:366" ph="..." />
+                <marker date="1558381364843" expanded="true" signature="387:791" ph="{...}" />
+                <marker date="1558381364843" expanded="true" signature="414:789" ph="{...}" />
+                <marker date="1558381364843" expanded="true" signature="467:541" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/appsettings.json" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="width" value="1617" />
+    <option name="height" value="909" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.DeathStar">
+    <configuration name="DeathStar" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DeathStar.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="DeathStar" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeathStar: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DeathStar.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd95752e-a215-42a8-a260-dc9519c29229" name="Default Changelist" comment="" />
+      <created>1558376164364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558376164364</updated>
+      <workItem from="1558376167231" duration="9341000" />
+      <workItem from="1558402937005" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9436000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="2208" height="1208" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23162791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.31043956" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="REST Client" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.32871014" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <marker date="1558384061551" expanded="false" signature="6:327" ph="..." />
+            <marker date="1558384061551" expanded="true" signature="348:2512" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="382:629" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="658:712" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="737:2510" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="807:1022" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1558384061551" expanded="true" signature="1075:1138" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="1215:1298" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="1527:2504" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="1587:1664" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="1717:2492" ph="{...}" />
+            <marker date="1558384061551" expanded="true" signature="2203:2461" ph="/* var configValues = Configuration.AsEnumerable().ToList(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1558381364843" expanded="false" signature="6:366" ph="..." />
+            <marker date="1558381364843" expanded="true" signature="387:791" ph="{...}" />
+            <marker date="1558381364843" expanded="true" signature="414:789" ph="{...}" />
+            <marker date="1558381364843" expanded="true" signature="467:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
