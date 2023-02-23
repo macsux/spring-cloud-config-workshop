@@ -1,0 +1,9 @@
+{
+    "git": {
+        "uri": "https://github.com/pcfdotnet/spring-cloud-config-workshop-repo.git",
+        "label": "main"
+    },
+    "encrypt": {
+        "key": "theforce"
+    }
+}

@@ -1,0 +1,11 @@
+---
+applications:
+- name: deathstar
+  memory: 128M
+  instances: 1
+  random-route: true
+  path: death-star
+  buildpacks:
+    - dotnet_core_buildpack
+  services: 
+    - config-server

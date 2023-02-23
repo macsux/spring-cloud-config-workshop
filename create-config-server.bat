@@ -1,1 +1,1 @@
-cf create-service p-config-server standard config-server -c create-config-server.json
+cf create-service p.config-server standard config-server -c create-config-server.json

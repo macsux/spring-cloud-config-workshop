@@ -1,0 +1,10 @@
+version: '3.0'
+services:
+  config-server:
+    image: steeltoeoss/config-server
+    restart: always
+    ports:
+      - '8888:8888'
+    environment:
+      encrypt_key: theforce
+      spring_cloud_config_server_git_uri: https://github.com/pcfdotnet/spring-cloud-config-workshop-repo.git
