@@ -1,6 +1,6 @@
 {
     "git": {
-        "uri": "https://github.com/pcfdotnet/spring-cloud-config-workshop-repo.git",
+        "uri": "https://github.com/macsux/spring-cloud-config-workshop-repo.git",
         "label": "main"
     },
     "encrypt": {

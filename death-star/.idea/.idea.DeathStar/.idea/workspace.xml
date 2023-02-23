@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd95752e-a215-42a8-a260-dc9519c29229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/test/java/com/example/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-config-server.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../create-config-server.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-config-server.json" beforeDir="false" afterPath="$PROJECT_DIR$/../create-config-server.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DeathStar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeathStar.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DeathStar.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scs-config-server-schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +30,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a236b1c86d75ccf54176e2cddb49ae295f1371f358cba9b5335b82f925d7925/ConfigServerConfigurationProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b5770b9832c6fa16c8c4fddc2d7ae2762e815f43343d174e09d9925cca9636/ConfigServerConfigurationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LightSaber.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StarWarsConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LightSaber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StarWarsConfig.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,6 +109,7 @@
       <workItem from="1564417272080" duration="4159000" />
       <workItem from="1597691678152" duration="533000" />
       <workItem from="1676570728875" duration="4772000" />
+      <workItem from="1677175111657" duration="1816000" />
     </task>
     <servers />
   </component>
